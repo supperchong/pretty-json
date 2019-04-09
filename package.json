@@ -1,8 +1,8 @@
 {
     "name": "pretty-json",
-    "displayName": "JsToJson",
+    "displayName": "Pretty js/json",
     "description": "format js/json to beautiful json",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "supperchong",
     "engines": {
         "vscode": "^1.32.0"
@@ -41,6 +41,6 @@
         "@types/mocha": "^2.2.42"
     },
     "dependencies": {
-        "pretty-object-string": "^1.0.3"
+        "pretty-object-string": "^1.0.4"
     }
 }
