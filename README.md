@@ -1,5 +1,8 @@
 # prettyJson README
-
+## Usage
+press  `F1` or `Ctrl+Shift+P`  and run the Command `"prettyJson"`
+![pretty json](./images/code.gif)
+## Main Features
 The prettier or vscode-json beautify can format pretty json,but they don't format javascript object,such as 
 ```js
 {name:1}
